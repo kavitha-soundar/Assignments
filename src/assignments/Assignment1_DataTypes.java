@@ -10,7 +10,7 @@ public class Assignment1_DataTypes {
 		boolean customerOrderPlaced= true;
 		System.out.println("Whether a customer has placed an order:" +customerOrderPlaced);
 		int PhoneNumber =1234567890;
-		System.out.println("Person's phone number:"+ PhoneNumber);
+		System.out.println("Person's phone number is:"+ PhoneNumber);
 		float availableAmount = 1000.50f;
 		System.out.println("Amount of money in a customer's bank account: "+availableAmount);
 		String emailId= "john.doe@example.com";
