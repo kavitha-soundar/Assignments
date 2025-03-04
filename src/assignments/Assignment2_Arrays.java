@@ -1,5 +1,16 @@
 package assignments;
 
+/* Problem: Multi-Dimensional Array Practice
+		1. Create a 3D array to represent the following data:
+			Semesters as the first dimension.
+			Subjects and Marks as the second dimension.
+			Actual values for Subject Names and Marks as the third dimension.
+		2. From the array:
+			Print Semester 3 - Subject 4 and Subject 5 Names.
+ 			Print Semester 5 - Subject 3 and Subject 6 marks
+ * 
+ */
+
 public class Assignment2_Arrays {
 
 	public static void main(String[] args) {	
